@@ -1,0 +1,61 @@
+
+
+.info-diri{
+    width:250px;
+    height:370px;
+    background-color:white;
+    position: relative;
+    /* left:70%; */
+    margin-left: 0px;
+    float:right;
+    right:200px;
+    text-align: center;
+}
+
+.info-diri p{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.isi{
+    width:600px;
+    height:900px;
+    text-align: justify;
+    left:20%;
+    position: relative;
+    color: black;
+    border-radius: 2%;
+    margin:10px 10px;
+    font-size: 18px;
+}
+
+.isi p,h2{
+    margin-top:20px;
+}
+
+footer{
+    background-color: black;
+    height:40px;
+    text-align: center;
+    font-size: 10pt;
+    color:white;
+    bottom:0px;
+    left:0px;
+    display:block;
+    width:100%;
+    position: relative;
+}
+
+footer p{
+    top:4px;
+    position: static;
+}
+
+#gambar{
+    margin-top:20px;
+}
+
+p a{
+    text-decoration: none;
+    color:black;
+}
