@@ -1,0 +1,46 @@
+*{
+    background-color: antiquewhite;
+}
+#icon img  {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 40%;
+    top: 10%
+}
+#judul{
+    left:37%;
+    text-align: center;
+}
+#arrow2 img{
+    position: relative;
+    left: 45%;
+    bottom:80px;
+    
+}
+#arrow1 img{
+    position: relative;
+    margin-left: 0px;
+    left:500px;
+    bottom : 150px;
+}
+
+#arrow3 img{
+    position: relative;
+    left:560px;
+    bottom: 190px;
+}
+
+#arrow4 img{
+    position: relative;
+    left:850px;
+    bottom:370px
+}
+
+#click{
+    width : 100px;
+    height: 100px;
+    margin-top:20px;
+    position: relative;
+    left: 47%;
+}
